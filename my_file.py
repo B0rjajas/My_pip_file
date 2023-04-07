@@ -1,1 +1,2 @@
-i print 'Hi Git'
+ print 'Hi Git'
+print 'Hi from ther dev'
