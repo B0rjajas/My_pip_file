@@ -5,7 +5,7 @@ _#My Git Project
 
 ## I´m in tne feature project
 
-
+> My scary content merge conflict code
 > Added to master again
 
 
@@ -23,3 +23,5 @@ t
 
 > made change from git pull demo
 >>>>>>> bbde0749b7e946564293e6f836f6339da46183f2
+
+
